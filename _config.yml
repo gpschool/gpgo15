@@ -1,0 +1,31 @@
+# Site settings
+title: Workshop on Gaussian Processes for Global Optimization
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  The workshop on Gaussian processes for global optimization held at the University of Sheffield in 2015.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gpss.cc" # the base hostname & protocol for your site
+twitter_username: datascienceshef
+github_username:  SheffieldML
+facebook_page: gaussianprocesssummerschool
+
+youtube:
+  height: 315
+  width: 560
+
+conference:
+  hosts:
+  organizers:
+  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Javier Gonzalez, url: "http://javiergonzalezh.github.io/"}
+  - {name: Sheffield ML Group, url: "http://sheffieldml.github.io"}
+  name: Gaussian Processes for Global Optimization
+  location: University of Sheffield, UK
+  year: 2015
+  month: September
+  dates:
+  - {date: 17, day: Thursday, month: September, year: 2015}
+  
+# Build settings
+markdown: kramdown
+
