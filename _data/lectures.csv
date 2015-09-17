@@ -1,7 +1,7 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube
 Thursday,17,September,8:00,9:00,**Arrivals**,,,,,
 Thursday,17,September,9:00,9:15,**Welcome**,,,[Neil Lawrence](http://inverseprobability.com), University of Sheffield,
-Thursday,17,September,9:15,10:15,**Recent Advances and Challenges in Bayesian Optimization**,,,[Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/), University of Oxford and Google DeepMind,
+Thursday,17,September,9:15,10:15,**Recent Advances and Challenges in Bayesian Optimization**,,,[Nando de Freitas](https://www.cs.ox.ac.uk/people/nando.defreitas/), University of Oxford and Google DeepMind,VtM7ylGHtF4
 Thursday,17,September,10:15,10:30,**Coffee Break**,,,,,
 Thursday,17,September,10:30,11:30,**Information-based methods for Bayesian Optimization**,,,[Matthew Hoffman](http://mlg.eng.cam.ac.uk/hoffmanm/), University of Cambridge,
 Thursday,17,September,11:30,12:30,**Fast Robot Learning with Gaussian Processes**,,,[Marc Deisenroth](http://wp.doc.ic.ac.uk/sml/person/marc-deisenroth/), Imperial College,
